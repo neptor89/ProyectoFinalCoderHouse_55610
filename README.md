@@ -35,11 +35,7 @@ npm start
 
 Existen distintos roles de usuario en la aplicación:
 
-- **Admin:** Puede crear, eliminar y modificar productos, gestionar usuarios (cambiar su rol a premium y borrarlos), y gestionar carritos y tickets. Las credenciales de administrador son:
-
-  - Email: adminCoder@coder.com
-  - Contraseña: 12345qwert
-
+- **Admin:** Puede crear, eliminar y modificar productos, gestionar usuarios (cambiar su rol a premium y borrarlos), y gestionar carritos y tickets.
 - **User:** Puede realizar un proceso de compra completo.
 - **Premium:** Además de las funciones de usuario, puede crear productos y editar y borrar sus propios productos.
 
